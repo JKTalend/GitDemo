@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/testingproj_0.1</module>
+    <module>jobs/process/testingjob2_0.1</module>
   </modules>
   <properties>
     <talend.project.name>DEMOPROJ_GITHUB</talend.project.name>
