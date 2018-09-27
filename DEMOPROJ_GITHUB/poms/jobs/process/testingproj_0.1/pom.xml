@@ -8,7 +8,7 @@
     <version>7.0.1</version>
     <relativePath>../../../</relativePath>
   </parent>
-  <groupId>org.example.demoproj_github.job</groupId>
+  <groupId>org.example.demoproj_github.jobTob</groupId>
   <artifactId>testingproj</artifactId>
   <version>0.1.0</version>
   <name>DEMOPROJ_GITHUB testingproj-0.1.0 (0.1,Job Designs)</name>
